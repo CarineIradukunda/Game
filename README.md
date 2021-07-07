@@ -1,5 +1,5 @@
 Basketball game
-It uses blocks of Java
+It uses blocks of Java Script
 You loose when the ball doesn't touch the hand shown
 you win when the ball hits the upper part(at the basket and doesn't come back)
 when you won the speed of the ball increases
